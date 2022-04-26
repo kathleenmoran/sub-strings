@@ -7,5 +7,5 @@ def substrings(words, valid_substrings)
       end
     end
   end
-  p substrings_in_words
+  substrings_in_words
 end
